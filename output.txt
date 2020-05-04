@@ -1,0 +1,7 @@
+Team1---
+	 	|Team2---
+Team2---
+	 		 	|-Team4-|
+Team3---
+	 	|Team4---
+Team4---
